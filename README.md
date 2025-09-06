@@ -8,7 +8,7 @@
   
 
 
-- 🧑‍🎓 **I’m an Undergraduate **[🎓 Final Year BSc (Hons) Software Engineering]** @ SLTC
+- 🧑‍🎓 I’m an Undergraduate **[🎓 Final Year BSc (Hons) Software Engineering]** @ SLTC
 
 - 📫 How to reach me **yuwanikaiwanthi@gmail.com**
   
