@@ -41,7 +41,7 @@
 
 <div align="center">
 
-<h3 align="start">Languages and Tools:</h3>
+<h3 >Languages and Tools:</h3>
 
 <p align="left">
 <table>
