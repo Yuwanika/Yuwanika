@@ -14,7 +14,7 @@
 </table>
 
 
-<div align="center">
+
 
 - 🧑‍🎓 I’m an Undergraduate **[🎓 Final Year BSc (Hons) Software Engineering]** @ SLTC
 
