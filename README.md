@@ -22,7 +22,7 @@
   
 - ⚡ Fun fact **Call me as Yuwa**
 
-<td>
+
 <h3 align="center">Connect with me:🌐</h3>
 
 <div align="center">
@@ -31,7 +31,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=Gmail&logoColor=white)](mailto:yuwanikaiwanthi@gmail.com)
 
 </div>
-</td> 
+
 ---
 
 <h3 align="center">Languages and Tools:</h3>
