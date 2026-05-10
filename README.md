@@ -2,6 +2,8 @@
 <h1 align="center">Hi 👋,I'm Yuwanika Samarawickrama</h1>
 <h2 align="center">Fullstack Developer | QA Engineer</h2>
 
+<center>
+  
 </td>
 <td width="50%" align="center">
 
