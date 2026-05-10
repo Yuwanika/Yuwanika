@@ -3,17 +3,18 @@
 <h2 align="center">Fullstack Developer | QA Engineer</h2>
 
 
-<center>
+
+<div align="center">
 <td width="50%" align="center">
 
   <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
-
 
   </td>
 </tr>
 </table>
 
 
+<div align="center">
 
 - 🧑‍🎓 I’m an Undergraduate **[🎓 Final Year BSc (Hons) Software Engineering]** @ SLTC
 
@@ -21,7 +22,7 @@
   
 - ⚡ Fun fact **Call me as Yuwa**
 
- </center>
+ 
 <h3 align="center">Connect with me:🌐</h3>
 
 <div align="center">
