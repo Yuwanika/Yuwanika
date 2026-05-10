@@ -20,7 +20,14 @@
   <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
 
   
-</td> </tr> </table> <h3 align="center">Connect with me:</h3> <align="center"> <a href="https://linkedin.com/in/yuwanikasamarawickrama" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="kaveendinethma" height="50" width="50" /></a> <a href="https://fb.com/Yuwanika Iwnthi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kaveen dinethma" height="50" width="50" /></a> <a href="https://www.instagram.com/nikie_crazy/" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png" alt="kavee_dineth" height="50" width="50" /></a></p> </p>
+<h3 align="center">Connect with me:🌐</h3>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuwanika-samarawickrama-23a12b20b/) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=Gmail&logoColor=white)](mailto:yuwanikaiwanthi@gmail.com)
+
+</div>
 
 ---
 
